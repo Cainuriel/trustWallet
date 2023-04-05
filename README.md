@@ -1,0 +1,2 @@
+# trustWallet
+ Trust wallet Scripts
